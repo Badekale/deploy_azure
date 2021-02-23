@@ -1,0 +1,12 @@
+dash_table==4.11.1
+dash_html_components==1.1.1
+tensorflow_hub==0.8.0
+dash_core_components==1.14.1
+pandas==1.1.4
+spacy==2.3.5
+tensorflow==2.0.0
+numpy==1.19.2
+scipy==1.5.2
+dash==1.18.1
+nltk==3.5
+dash_bootstrap_components==0.11.3

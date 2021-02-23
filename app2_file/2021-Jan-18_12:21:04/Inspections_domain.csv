@@ -1,0 +1,675 @@
+Capabilties,clean_text
+Ability to add an address to a Complaint,ability add address complaint
+Ability to add an address to Equipment ,ability add address equipment
+Ability to add an address to an Inspection,ability add address inspection
+Ability to allow permit holders to request inspections,ability allow permit holder request inspection
+Ability to map Inspections,ability map inspection
+Ability to Schedule Inspections,ability schedule inspection
+Ability to assign inspections,ability assign inspection
+Ability to view unassigned inspections,ability view unassigned inspection
+Ability to add an address to a Violation,ability add address violation
+Ability to answer questions on an inspection checklist on a standalone inspection app,ability answer question inspection checklist standalone inspection app
+Ability to load an inspectors checklists for an inspection on a standalone inspections app,ability load inspector checklist inspection standalone inspections app
+Ability to access checklists on a standalone app without an active internet connection,ability access checklist standalone app without active internet connection
+Ability to correct a violation during an inspection and then close the inspection,ability correct violation inspection close inspection
+Ability to add comments on inspections,ability add comment inspection
+Ability to create inspections,ability create inspection
+Ability to Complete inspections records,ability complete inspection record
+"Ability to record complaints on Permits, Licenses, Parcel, Address, Contact or Account ",ability record complaint permit licenses parcel address contact account
+"Ability to include case notes, inspection details, lists of violations into generated letters to be sent to responsible parties.",ability include case note inspection detail list violation generate letter send responsible party
+"Ability to schedule an initial inspection or a reinspection, with inspections dates either based on the ordinance or entered manually.",ability schedule initial inspection reinspection inspection date either base ordinance enter manually
+Ability to upload Photos or other documents as supporting content for the complaints,ability upload photo document support content complaint
+Ability to create an inspection on a complaint when an officer is out on field and notices a potential violation.,ability create inspection complaint officer field notice potential violation
+Ability to complete an inspection on a stand alone inspections app,ability complete inspection stand alone inspection app
+Ability to view an inspectors list of inspection checklists to be completed on a standalone inspections app without an active internet connection,ability view inspectors list inspection checklist complete standalone inspection app without active internet connection
+Ability to view a track and view checklists on a standalone app that does not require internet connectivity,ability view track view checklist standalone app require internet connectivity
+Ability to view a checklist for an inspection on a standalone inspections app,ability view checklist inspection standalone inspections app
+Ability to download a standalone app on a mobile device that tracks inspections,ability download standalone app mobile device track inspection
+Ability to close inspections that have an open violation which causes a new inspection to be created (re-inspection). ,ability close inspection open violation cause new inspection create re inspection
+Ability to close inspections that do not have any open violations,ability close inspection open violation
+Ability to view all the details related to an inspection,ability view detail relate inspection
+Ability to schedule an inspection for the violation that you create.,ability schedule inspection violation create
+Ability to schedule inspections manually,ability schedule inspection manually
+Ability to request inspections manually,ability request inspection manually
+Ability schedule inspections automatically based on business rules,ability schedule inspection automatically base business rule
+Abilty to limit what permit types will permit inspectors requests from external users,abilty limit permit type permit inspector request external user
+Ability to assign inspector to inspection,ability assign inspector inspection
+Ability to reassign inspector,ability reassign inspector
+Ability to assign inspection to external users,ability assign inspection external user
+Ability to view inspector schedules,ability view inspector schedule
+Ability to search inspector schedules,ability search inspector schedule
+Ability to configure inspection status by type,ability configure inspection status type
+Ability to assign inspections manually,ability assign inspection manually
+Ability to provide routing options to inspectors,ability provide route option inspector
+Ability to enter inspection results from the field,ability enter inspection result field
+Ability to configure standard comments for inspections,ability configure standard comment inspection
+Ability to select from standard comments in an inspection (future),ability select standard comment inspection future
+Ability to add free form comments on inspection,ability add free form comment inspection
+Ability for external inspectors to enter inspection results,ability external inspector enter inspection result
+Ability to link inspections between permits,ability link inspection permit
+ability to view scheduled inspections on portal,ability view schedule inspection portal
+Ability to search inspector schedule by date range,ability search inspector schedule date range
+Abilty to search inspector schedules by address,abilty search inspector schedule address
+Ability to search inspector schedules based on parameters,ability search inspector schedule base parameter
+Ability to view inspection results,ability view inspection result
+Ability to view electronic signatures on inspections (future),ability view electronic signature inspection future
+Ability to add a violation to an inspection,ability add violation inspection
+Ability to configure the display of violation codes,ability configure display violation code
+Ability to enter comments on inspection,ability enter comment inspection
+Ability to add canned comments to inspection,ability add canned comment inspection
+Ability to pass or fail an inspection,ability pass fail inspection
+Ability to track inspection history by property,ability track inspection history property
+Ability to set inspection history requirements by agency,ability set inspection history requirement agency
+Ability to complete inspection reports from mobile device,ability complete inspection report mobile device
+Ability to pass or fail inspections in bulk (future),ability pass fail inspection bulk future
+Ability for other users to add comments on an inspection (future),ability user add comment inspection future
+Ability for inspectors to view comments from all users (future),ability inspector view comment user future
+Ability to request an inspection from mobile phone,ability request inspection mobile phone
+Ability to pay for inspection from mobile phone,ability pay inspection mobile phone
+Ability to configure citation based on type of violation,ability configure citation base type violation
+Ability to relate fees to a citation,ability relate fee citation
+Ability to manage violations from mobile device,ability manage violation mobile device
+Ability to manage citations from mobile device,ability manage citation mobile device
+Ability to pay for citation from mobile device,ability pay citation mobile device
+Ability to create a site visit,ability create site visit
+Ability to capture site visit time,ability capture site visit time
+Ability to create inspection checklist,ability create inspection checklist
+Ability to trigger code case from code violation,ability trigger code case code violation
+Ability to create inspection groups,ability create inspection group
+Ability to create list of code violations,ability create list code violation
+Ability to generate a letter of inspection results,ability generate letter inspection result
+Ability to route inspections,ability route inspection
+Ability to create inspection dependencies,ability create inspection dependency
+Ability to associate fee with failed inspection,ability associate fee fail inspection
+Ability to validate contractor license,ability validate contractor license
+Abilty to create multiple inspection cycles for a single permit,abilty create multiple inspection cycle single permit
+Ability to affect permit process,ability affect permit process
+Ability to assign checklist based on inspection type,ability assign checklist base inspection type
+Ability to determine the order of inspections,ability determine order inspection
+Ability to create a reinspection,ability create reinspection
+Ability to enter checklist items,ability enter checklist item
+Ability to check the status of an inspection,ability check status inspection
+Ability to pay for inspection fee,ability pay inspection fee
+Ability to get the results of an inspection,ability get result inspection
+Ability to print inspection,ability print inspection
+Ability to mark the items that failed on an inspection,ability mark item fail inspection
+Ability to schedule inspections by zone,ability schedule inspection zone
+Ability to capture video,ability capture video
+Ability to update status of inspection,ability update status inspection
+Ability to re-assign inspection,ability re assign inspection
+Ability to mass re-assign inspections,ability mass re assign inspection
+Ability to be notified of assignment,ability notify assignment
+Ability to change inspection checklist,ability change inspection checklist
+Ability to capture photo,ability capture photo
+Ability to schedule inspections by queue,ability schedule inspection queue
+Ability to mark steps they have completed on an inspection,ability mark step complete inspection
+Ability to view inspections on a map,ability view inspection map
+Ability to route inspections by traffic,ability route inspection traffic
+Ability to apply video to code violation,ability apply video code violation
+Ability to cause plan revision [revised permit/create sub-permit],ability cause plan revision revise permit create sub permit
+Ability to apply photo to code violation,ability apply photo code violation
+Ability to select a code violation,ability select code violation
+Ability to complete checklist,ability complete checklist
+Abilty to print a permit card,abilty print permit card
+Ability to pay for re-inspection fee,ability pay re inspection fee
+Ability to print grade card,ability print grade card
+Ability to update risk assessment,ability update risk assessment
+Abilty to create multiple inspection cycles for a single license,abilty create multiple inspection cycle single license
+Ability to affect license process from an inspection,ability affect license process inspection
+Ability to manage child / parent license relationships,ability manage child parent license relationship
+Ability to validate occupational license,ability validate occupational license
+Ability to randomize inspection schedule,ability randomize inspection schedule
+Ability to create grading scale,ability create grade scale
+Ability to notify public of inspections,ability notify public inspection
+Ability to generate grade card,ability generate grade card
+Ability to notify public of grades,ability notify public grade
+Ability to find objects at end of inspection lifecycle,ability find object end inspection lifecycle
+Ability to receive inspection cycle notification,ability receive inspection cycle notification
+Ability to add supporting photo or video evidence to an Inspection,ability add support photo video evidence inspection
+Ability to view a list of related inspections to a parcel or address,ability view list related inspection parcel address
+Ability to notify the complainant and respondent that a complaint has been received automatically,ability notify complainant respondent complaint receive automatically
+Ability to track the history of a complaint,ability track history complaint
+Ability to see a list of all complaints filed by a complainant,ability see list complaint file complainant
+Ability to send notification to an inspector linked to an inspection,ability send notification inspector link inspection
+"Ability to store test results, location, and test version for citizen applicants",ability store test result location test version citizen applicant
+Ability to assign multiple inspectors to an inspection simulatenously,ability assign multiple inspector inspection simulatenously
+Ability to manage linked inspections and complaints through cases,ability manage link inspection complaint case
+Ability to assign a user to a case,ability assign user case
+Ability to rescind or add new actions that need to be taken against a violation,ability rescind add new action need take violation
+Ability to schedule hearings or settlement conferences for a group or type of code enforcement case,ability schedule hearing settlement conference group type code enforcement case
+Ability to create and track investigations and hearings,ability create track investigation hearing
+Ability to create a batch rule to audit a random percentage of records,ability create batch rule audit random percentage record
+Ability for an applicant or licensee to request a hearing,ability applicant licensee request hear
+Ability to create a custom object,ability create custom object
+Ability to automatically generate the proper violation for an inspection based on criteria on the inspection,ability automatically generate proper violation inspection base criterion inspection
+Ability to generate disciplinary actions associated to a violation,ability generate disciplinary action associate violation
+Ability to process a hearing request,ability process hear request
+Ability to organize hearing file based on business rules.,ability organize hear file base business rule
+Ability to prorate fees ,ability prorate fee
+Ability to create complaints on the portal,ability create complaint portal
+Ability to generate an invoice for inspections,ability generate invoice inspection
+Ability to assign fees to inspection,ability assign fee inspection
+Ability to apply a violation to a record,ability apply violation record
+Ability to display violation codes and related details on citation,ability display violation code related detail citation
+Ability to add standard comments to a citation,ability add standard comment citation
+Ability to add free form comments to a citation,ability add free form comment citation
+Ability to print citations in the field,ability print citation field
+Ability to configure citation status based on business rules,ability configure citation status base business rule
+Ability to assign citation status automatically based on business rules,ability assign citation status automatically base business rule
+Ability to manually assign citation status,ability manually assign citation status
+Ability to view status of a citation,ability view status citation
+Ability to track history of violations on related records.,ability track history violation related record
+Ability to assign multiple violations to a record,ability assign multiple violation record
+"Ability to track number of violations per related object (property, applicant)",ability track number violation per related object property applicant
+Abilty to assign fees to a citation based on business rules,abilty assign fees citation base business rule
+Ability to define escalation rules for failure to pay fines,ability define escalation rule failure pay fine
+Ability to integrate with hearing process,ability integrate hearing process
+Ability to print violations,ability print violation
+Ability to print warnings,ability print warning
+Ability to apply a lien to a code enforcement case,ability apply lien code enforcement case
+Ability to apply a citation to a complaint,ability apply citation complaint
+"Ability to render services (such as inspections, citations, etc.) based on issues initiated by the CRM system and interfaced into the current applications used.",ability render service such inspection citation etc base issue initiate crm system interface current application use
+Ability to review outstanding Service Requests,ability review outstanding service request
+Ability to view a GIS map ,ability view gis map
+Ability to update close (change Status) a Service Requests,ability update close change status service request
+Ability to view the location of a permit on a map,ability view location permit map
+Ability to view outstanding Service Requests,ability view outstanding service request
+Ability to change the owner on a Service Requests,ability change owner service request
+Ability to view the location of a license on a map,ability view location license map
+Ability to view the location of a parcel on a map,ability view location parcel map
+Ability to view the location of a equipment on a map,ability view location equipment map
+Ability to view the location of a complaint on a map,ability view location complaint map
+Ability to view the location of a inspection on a map,ability view location inspection map
+Ability to view the location of an Application on a map,ability view location application map
+Ability to enable and disable items being displayed on the map,ability enable disable item display map
+Ability to email the Citizen when a Service Request has been completed,ability email citizen service request complete
+Ability to view external ArcGIS layers on the map,ability view external arcgis layer map
+Ability to view the legend for items on the map,ability view legend item map
+Ability to edit GIS records from a map,ability edit gis records map
+Ability to draw polygons on a map,ability draw polygon map
+Ability to select a list view to filter items shown on the map,ability select list view filter item show map
+Ability to measure distances on a map,ability measure distance map
+Ability to add new Checklists with Name and Title,ability add new checklists name title
+Ability to measure areas on a map,ability measure area map
+Ability to print a view on a map,ability print view map
+Ability to generate Checklist Dynamically based on Checklist Questions,ability generate checklist dynamically base checklist question
+Ability to get a route from multiple points on a map,ability get route multiple point map
+Ability to search for records on a layer on a map by a specified area,ability search record layer map specify area
+Ability to search for records on a layer on a map by a field on that record,ability search record layer map field record
+Ability to zoom to and track your location on a map in real time,ability zoom track location map real time
+Ability to activate and deactivate a Checklist ,ability activate deactivate checklist
+Ability to view a working progress Checklist (Status = Draft),ability view work progress checklist status draft
+Ability to group Questions together.,ability group question together
+Ability to create one or multiple Checklist Versions,ability create one multiple checklist version
+Ability to call sets of code (classes) in a specific order of execution (Apex Trigger Framework),ability call set code class specific order execution apex trigger framework
+"Ability to use local custom triggers, Clariti managed triggers, and Dynamic Rules Engine (DRE) (Apex Trigger Framework) ",ability use local custom trigger clariti manage trigger dynamic rule engine dre apex trigger framework
+Ability to view ArcGIS layers hosted in ArcGIS Server on a map,ability view arcgis layer host arcgis server map
+Ability to view ArcGIS layers hosted in ArcGIS Online on a map,ability view arcgis layer host arcgis online map
+Ability to zoom back to the default view extent in a map,ability zoom back default view extent map
+Ability to search on a map by vicinity to a point or record,ability search map vicinity point record
+Ability to zoom into and out of a map,ability zoom map
+Ability to create one of multiple Sections linked to a CheckLists (Name and Description),ability create one multiple section link checklist name description
+Ability to define if the sequence number is Permanent or Temporary,ability define sequence number permanent temporary
+Ability to view OGC layers on a map,ability view ogc layer map
+Ability to click on an record on a map and display record details,ability click record map display record detail
+Ability to view | edit | delete all the Sections within a CheckList,ability view edit delete section within checklist
+Ability to order CheckLists Sections,ability order checklist section
+Ability to Save Checklist Sections Order,ability save checklist section order
+Ability Manage CheckList Questions,ability manage checklist question
+Ability to view CheckList Question Lists,ability view checklist question list
+Ability to search for a CheckList Question List ,ability search checklist question list
+Ability to Select the number of Questions to display on the Question List (All | 25 | 50 | 75 |100),ability select number question display question list all 25 50 75 100
+Ability to define the events that trigger the creation of a sequence number ,ability define event trigger creation sequence number
+"Ability to sort CheckList Question List By : Question Title, Body, Type Name, ",ability sort checklist question list question title body type name
+Ability to navigate through the CheckList Questions,ability navigate checklist question
+Ability to create new inspections from a parcel on the map,ability create new inspection parcel map
+Ability to create new permits from a parcel on the map,ability create new permit parcel map
+Ability to create new applications from a parcel on the map,ability create new application parcel map
+Ability to create new licenses from a parcel on the map,ability create new license parcel map
+Ability to create new complaints from a parcel on the map,ability create new complaint parcel map
+Ability to determine the geolocation in degrees of a spot on the map,ability determine geolocation degree spot map
+"Ability to manage in one location all records child records associated to a Parent Object (Example: Inspection for a Permit, Reviews for a Permit)",ability manage one location record child record associate parent object example inspection permit review permit
+Ability to search for child Record within the Record Manage List ,ability search child record within record manage list
+Ability to clone a record,ability clone record
+Ability to change field values when cloning a record,ability change field value clone record
+Ability to reset a sequence number every calendar year ,ability reset sequence number every calendar year
+Ability to specify the next number in the sequence when generating the sequence number ,ability specify next number sequence generate sequence number
+Ability show the list of Question Types ,ability show list question type
+Ability to search for a Question Type on the CheckList Question Type List,ability search question type checklist question type list
+Ability to sort Question Type List by : Type Name | Type | Default Value,ability sort question type list type name type default value
+Ability to lookup objects,ability lookup object
+"Ability to place an Alert on a Permit and (optionally) share the Alert with related Fees, Deposits, Reviews, Document Submissions, Details of Work, and Inspections",ability place alert permit optionally share alert related fee deposit review document submission detail work inspection
+"Ability to place an Alert on a Parcel and (optionally) share the Alert with related Permits, Inspections, Complaints, Licenses, and Violations",ability place alert parcel optionally share alert related permit inspection complaint license violation
+"Ability to place an Alert on a Complaint and (optionally) share the Alert with related Fees, Inspections, Violations and Primary Complaint",ability place alert complaint optionally share alert related fee inspection violation primary complaint
+Ability to search for available Question Types while creating | editing a Question ,ability search available question type create editing question
+Ability to populate Salesforce records from GIS server records,ability populate salesforce record gis server record
+Ability to show all the Available Questions for Question Page,ability show available question page
+Ability to create dependencies between Questions (Sub Questiion),ability create dependency question sub questiion
+Ability to select the value that determines the display of a dependent Question,ability select value determine display dependent question
+Ability to unlink dependency between questions,ability unlink dependency question
+"Ability to link a CheckList to an Object such as Permit, Inspection, License",ability link checklist object permit inspection license
+Ability to display CheckList Questions when a the Checklist button on an Object is invoked,ability display checklist question checklist button object invoke
+"Ability to answer the CheckList Questions for the linked Object such as Permit, Inspection, License",ability answer checklist question link object permit inspection license
+Ability to capture the answers from a CheckList and display the on related Parent Object,ability capture answer checklist display relate parent object
+"Ability to place an Alert on an Address and (optionally) shared the Alert with related Permits, Land-use/Planning Applications, Complaints, Licenses, Violations, and Inspections",ability place alert address optionally share alert related permit land use planning application complaint license violation inspection
+Ability to place an Alert on an Inspection,ability place alert inspection
+Ability to schedule batch letters by day of week and time,ability schedule batch letter day week time
+Ability to batch print automated letters at end of day,ability batch print automate letter end day
+Ability to create copies of letters to many recipients,ability create copy letter many recipient
+"Ability to manually request a letter for a permit, license, etc",ability manually request letter permit license etc
+Ability to include barcodes into outbound letters,ability include barcodes outbound letter
+Ability to place an Alert on a Land-use/Planning Application,ability place alert land use planning application
+Ability to place an Alert on a Project,ability place alert project
+Ability to configure Record Manage to display all child Records associated to a Parent Object,ability configure record manage display child record associate parent object
+Ability to display the count of child records displays on the List,ability display count child record display list
+Ability to print print duplex of batch letters,ability print duplex batch letter
+Ability to display the list of child Records associated to a Parent Object,ability display list child record associate parent object
+Ability to populate GIS records from Salesforce Records,ability populate gis records salesforce record
+Ability to update Salesforce records from GIS server records,ability update salesforce record gis server record
+Ability to update GIS records from Salesforce Records,ability update gis records salesforce record
+Ability to update Salesforce fields from a formula involving GIS server records,ability update salesforce field formula involve gis server record
+Ability to create multiple junction Records at once,ability create multiple junction record
+Ability to create Sub Questions,ability create sub question
+Ability to define the Checklist Criteria,ability define checklist criterion
+Ability to use automated flow to generate CheckList Answers,ability use automate flow generate checklist answer
+Ability to navigate through multiple Record Manage pages,ability navigate multiple record manage page
+Ability to specify the Columns to be included in the Record Manage List,ability specify column include record manage list
+Ability to select Multiple Manage Records from the list for mass editing purposes,ability select multiple manage record list mass editing purpose
+Ability to do a mass update of the values for the selected records,ability mass update value select record
+Ability to do Inline Editing from the list or Manage Records,ability inline editing list manage record
+Ability to display list of child Records,ability display list child record
+Ability to define the fields (columns) to include in the List of child Records,ability define field column include list child record
+Ability to sort column in the List of Child Records,ability sort column list child record
+Ability to search for records within the List of child Records,ability search record within list child record
+Ability to define filters for the List of child Records,ability define filter list child record
+Ability to apply filters to list of child records based on filters values,ability apply filter list child record base filter value
+Ability to manage all Dynamic Rules Engine (DRE) in one Administration area,ability manage dynamic rule engine dre one administration area
+Ability to configure Junction add to create a Relationship between a Parent and child object ,ability configure junction add create relationship parent child object
+Ability to be notify a manager of a request to override a Hold or Lock Alert on a record,ability notify manager request override hold lock alert record
+Ability to route the request to override a Hold or Lock Alert to the employees direct manager,ability route request override hold lock alert employee direct manager
+Ability to pre-filter the amount of workflow rules (DRE) that are evaluated to save processing time,ability pre filter amount workflow rule dre evaluate save processing time
+Ability to configure and RollUp DRE Rules to calculate values from child to Parent,ability configure rollup dre rule calculate value child parent
+Ability to Activate / Deactive DRE Rules,ability activate deactive dre rule
+Ability to set Effective Start Date and Effective End Date on a DRE rule,ability set effective start date effective end date dre rule
+Ability to use Formula Editor to define matching evaluation for criteria Data Filters,ability use formula editor define match evaluation criterion datum filter
+Ability to configure the Primary Object and Event that should trigger the DRE Rule,ability configure primary object event trigger dre rule
+"Ability to configure DRE Templates with DRE General Info, Starting Object and Action, Criteria and Actions, Scope",ability configure dre template dre general info start object action criterion action scope
+Ability to specify the Order in which a DRE Rule should run,ability specify order dre rule run
+Ability to configure and run a Display DRE that shows a message when the a Record is being viewed,ability configure run display dre show message record view
+Ability to select the Event that triggers the DRE Rule (Created | Edited | Created or Edited | Deleted | However Impacted),ability select event trigger dre rule create edit create edit delete however impact
+Ability to specify the criteria that evaluates whether the Rule shall execute,ability specify criterion evaluate whether rule shall execute
+"Ability to add | delete Data Filtering Criteria to the starting Object, Related Objects and Global Tables",ability add delete datum filter criterion start object related object global table
+Ability to associate IFs evaluation to the Data Filters,ability associate ifs evaluation data filter
+Ability to add one or multiple criteria Data Filters,ability add one multiple criterion datum filter
+Ability to Activate | Deactivate a matching criteria within the DRE Criteria section on the DRE,ability activate deactivate matching criterion within dre criterion section dre
+Ability to specify DRE Action Scope : Using Each | Earliest | Latest,ability specify dre action scope use early late
+Ability to add | delete one or multiple Actions to be executed when the criteria on the DRE Rule is met,ability add delete one multiple action execute criterion dre rule meet
+Ability to specify whether a DRE Rule runs once,ability specify whether dre rule run
+Ability to specify whether a DRE Rule runs in Bulk Mode (asynchronous),ability specify whether dre rule run bulk mode asynchronous
+Ability to set the DRE Action to check for duplicates,ability set dre action check duplicate
+Ability to Activate | Deactivate a DRE Action,ability activate deactivate dre action
+Ability to clone a DRE Rule,ability clone dre rule
+Ability to reference your lists of data or value across many different records and in multiple tools,ability reference list data value across many different record multiple tool
+Ability to create a DRE Rule from a DRE Template,ability create dre rule dre template
+Ability to enable | disable DRE Objects (triggers),ability enable disable dre object trigger
+Ability to run DRE in Batch Mode,ability run dre batch mode
+Ability to enable | disable DRE Objects for DRE Display,ability enable disable dre object dre display
+Ability to displays Objects use by the DRE via API Name or by Label,ability display object use dre via api name label
+Ability to track DRE Events via event Log,ability track dre event via event log
+"Ability to Download DRE Rules (Selected Records, New Records, Existing Records | All)",ability download dre rule select record new record exist record all
+Ability to Deploy (Download) DRE Rules between Orgs,ability deploy download dre rule org
+"Ability to select the DRE Rules to upload (All Active, Selected)",ability select dre rule upload all active select
+Ability to review DRE Events via DRE Events Report,ability review dre event via dre event report
+Ability to review DRE Rule Filters via DRE Rule Filters Report,ability review dre rule filter via dre rule filter report
+Ability to review DRE Rule Results via DRE Rule Results Report,ability review dre rule result via dre rule result report
+Ability to recover deleted Records  (some considerations apply),ability recover delete record some consideration apply
+Ability to validate user that triggers the DRE Rule and follow the System Permissions associate the user,ability validate user trigger dre rule follow system permission associate user
+Ability for emails sent to citizens to contain attachments,ability email send citizen contain attachment
+Ability to submit a Permit/License Refund Requests,ability submit permit license refund request
+"Ability to submit other types of Service Requests ( Change Address Request, Information Request, FOIA Request, Cancel Application Request, Zoning Request)",ability submit type service request change address request information request foia request cancel application request zone request
+"Ability to generate sequential and non-sequential unique identifiers for Licenses, Permits and so on... ",ability generate sequential non sequential unique identifier license permit on
+Ability to generate a sequence number as soon as a record is created,ability generate sequence number soon record create
+Ability to define different business rules based on application types,ability define different business rule base application type
+Ability to change the location of an application through a map interface (future),ability change location application map interface future
+Ability to search database for accounts during application process,ability search database account application process
+Ability to copy and modify an existing application record,ability copy modify exist application record
+Ability for applicants to indicate preferred method of contact.,ability applicant indicate preferred method contact
+Ability to specify application data requirements based on business rules,ability specify application datum requirement base business rule
+Ability to complete business license application online,ability complete business license application online
+Ability to track details associated with a contractor,ability track detail associate contractor
+Ability for customer to enter questions,ability customer enter question
+Ability for customer to enter complaints,ability customer enter complaint
+Ability for customer to enter compliments,ability customer enter compliment
+Ability to request training from portal,ability request training portal
+Ability to generate records from based on business rules and criteria,ability generate record base business rule criterion
+Ability to view Service Request History,ability view service request history
+Ability to submit electronic plans during the application process,ability submit electronic plan application process
+Ability to direct electronic site plans to an electronic plan review solution for review,ability direct electronic site plan electronic plan review solution review
+"Ability to link similar complaints based on common factors such address, parcel, or type of complaint.",ability link similar complaint base common factor address parcel type complaint
+Ability to automatically create Bluebeam projects,ability automatically create bluebeam project
+Ability to upload files to Bluebeam,ability upload file bluebeam
+Ability to automatically invite users to active Bluebeam projects,ability automatically invite user active bluebeam project
+Ability to automatically retrieve Bluebeam markup text as correction comments,ability automatically retrieve bluebeam markup text correction comment
+Ability to automatically renew authenticated Bluebeam user access using OAuth 2.0,ability automatically renew authenticated bluebeam user access use oauth 20
+Ability to view Bluebeam file checkin status,ability view bluebeam file checkin status
+Ability to track status of permit from mobile device,ability track status permit mobile device
+Ability to assign reviewers based on business rules and the type of review,ability assign reviewer base business rule type review
+Ability to assign plan review workflow,ability assign plan review workflow
+Ability to notify plan reviewers when a plan is in their EPR review queue,ability notify plan reviewer plan epr review queue
+ability to mark up electronic plans,ability mark electronic plan
+ability to select from standard comments for plan reviews,ability select standard comment plan review
+ability to enter free form comments in plan review,ability enter free form comment plan review
+ability to support concurrent plan reviews,ability support concurrent plan review
+Ability to have multiple plan reviewers in EPR,ability multiple plan reviewer epr
+Ability to have multiple statuses in plan review software,ability multiple status plan review software
+Ability to cancel a plan review in the EPR,ability cancel plan review epr
+Ability to view plan review status,ability view plan review status
+ability to view plan review comments,ability view plan review comment
+Ability to capture pertinent information for paper based plans,ability capture pertinent information paper base plan
+Abilty to manage process for paper bases plans submitted,abilty manage process paper basis plan submit
+Ability to track the method of plan submission,ability track method plan submission
+Ability to identify plans as confidential,ability identify plan confidential
+Ability to restrict public access to plans that are marked confidential,ability restrict public access plan mark confidential
+Ability to submit plan review applications from mobile device,ability submit plan review application mobile device
+Ability to print copies of completed applications,ability print copy complete application
+Ability to assign plans to queue ,ability assign plan queue
+Ability to pick plan from queue ,ability pick plan queue
+Ability to generate a comment letter,ability generate comment letter
+Ability to email a comment letter,ability email comment letter
+Ability to add notes to an application record to document changes and decisions made by agency users,ability add note application record document change decision make agency user
+Ability to submit a Permit Time Extension Requests,ability submit permit time extension request
+Ability to set permit expiration based on business rules,ability set permit expiration base business rule
+Ability to send notifications based on business rules,ability send notification base business rule
+Ability to restrict the amount of time a partially completed application is available for completion before it is cancelled (future),ability restrict amount time partially complete application available completion cancel future
+Ability to report on expired licenses,ability report expire license
+Ability to print permit documents,ability print permit document
+Ability to transfer an application to a different parcel,ability transfer application different parcel
+Ability to automate the generation of letters based on business rules,ability automate generation letter base business rule
+Ability for Managers to be able to view their team ,ability manager able view team
+Ability for Managers to be able view their team's inspections,ability manager able view team inspection
+Ability to view permit attributes on a map,ability view permit attribute map
+Ability to click on points on a map to see permits in the area,ability click points map see permits area
+Ability to apply inspections to permit based on business rules,ability apply inspection permit base business rule
+Ability to attach documents and pictures to a record,ability attach document picture record
+Ability to assign inspections automatically based on business rules,ability assign inspection automatically base business rule
+Ability to manage access to inspection records based on business rules,ability manage access inspection record base business rule
+Ability to view inspection details from a map,ability view inspection detail map
+Ability to view checklist of inspection requirements,ability view checklist inspection requirement
+Ability to capture specific information on inspections based on business rules,ability capture specific information inspection base business rule
+Ability to create inspection reports from the field,ability create inspection report field
+Ability to track history of inspections and related activity,ability track history inspection relate activity
+Ability to search inspections,ability search inspection
+Ability to report on activities,ability report activity
+Ability to send automated email to related contacts when an inspection has been scheduled,ability send automate email relate contact inspection schedule
+Ability to set pass or fail on checklist items,ability set pass fail checklist item
+Ability to view inspection checklists,ability view inspection checklist
+Ability to associate fees and payments with inspections,ability associate fee payment inspection
+Ability to attach a picture to a citation,ability attach picture citation
+Ability to attach documents to a citation,ability attach document citation
+Ability to attach electronic signature to a citation,ability attach electronic signature citation
+Ability to view citations on a map,ability view citation map
+Ability to define public-accesible information,ability define public accesible information
+Ability to review an inspection queue,ability review inspection queue
+Ability to restrict a picklist selection based on a record type,ability restrict picklist selection base record type
+Ability to create dynamic letters based on the existence of attachments and images,ability create dynamic letter base existence attachment image
+Ability to create fees according to business rules,ability create fee accord business rule
+Ability to configure fees based on business rules,ability configure fee base business rule
+Ability to identify required financial guarantee instruments per business rules,ability identify require financial guarantee instrument per business rule
+Ability to add city banding in outbound letters,ability add city band outbound letter
+Ability to create reusable letter templates,ability create reusable letter template
+Ability to auto generate outbound letters,ability auto generate outbound letter
+Ability to format address of letters into windowed envelopes,ability format address letter windowe envelope
+Ability to create editable letter files,ability create editable letter file
+Ability to manage CheckList in a central place (Adminitration Area) ,ability manage checklist central place adminitration area
+"Ability to add, view and edit CheckLists",ability add view edit checklist
+Ability to email letters to outbound recipients?,ability email letter outbound recipient
+"Ability to create | edit | delete a New CheckList Question (Question Title, Question Body, Question Tip | Question Type)",ability create edit delete new checklist question title question body question tip question type
+Ability to create an alpha-numeric numbering system for different records in the same table that follow different formatting guidelines. ,ability create alpha numeric numbering system different record table follow different formatting guideline
+"Ability to Manage Question Types (Pass/Fail/ Multiple Choices, Picklist, Dates, Text, Numerical, Text Data)",ability manage question type pass fail multiple choice picklist date text numerical text datum
+Ability to define the format for the Sequence Numbers,ability define format sequence number
+Ability to setup Predefined Alerts to form a library of alerts that can be used in the system,ability setup predefine alert form library alert use system
+"Ability to place an Alert on a License and (optionally) share the Alert with related Fees, Document Submissions, and Inspections ",ability place alert license optionally share alert related fee document submission inspection
+Ability to specify Notice Alerts to provide users with informative text while managing records,ability specify notice alert provide user informative text managing record
+"Ability to place an Alert on a Citizen and (optionally) share the Alert with related Permits, Licenses and Land-use/Planning Applications",ability place alert citizen optionally share alert related permit license land use planning application
+Ability to specify Hold Alerts to provide users with informative text and prevent process continuation while managing records,ability specify hold alert provide user informative text prevent process continuation managing record
+Ability to create pdf letters,ability create pdf letter
+Ability to merge system data into letters templates to form new letter documents,ability merge system data letter template form new letter document
+Ability to schedule batch letters by day of month and time,ability schedule batch letter day month time
+Ability to list related information in a letter,ability list related information letter
+Ability to specify Lock Alerts to provide users with informative text and prevent all changes while managing records,ability specify lock alert provide user informative text prevent change managing record
+Ability to view and temporarily approve requests to override a Hold or Lock Alert on a record,ability view temporarily approve request override hold lock alert record
+Ability to request to temporarily override a Hold and Lock Alert on a record,ability request temporarily override hold lock alert record
+Ability to release Alerts from a record when no longer required,ability release alert record long require
+Ability to automate applying and releasing Alerts based on business rules,ability automate apply release alert base business rule
+Ability to define a Parent record and a List of child records to be added,ability define parent record list child record add
+Ability to configured questions as Required or Optional,ability configure question require optional
+Ability to do a mass delete of selected records,ability mass delete select record
+Ability to get the List of child Record form the child Object,ability get list child record form child object
+Ability to configure DRE to run automated process using predefined criteria and actions,ability configure dre run automate process use predefine criterion action
+Ability to create a centralized repository (master list) of reference values or items,ability create centralize repository master list reference value item
+Ability to manage and update reference data in a master list (centralized repository),ability manage update reference data master list centralize repository
+Ability to run DREs for automated process without the need of writing APEX Triggers,ability run dre automate process without need write apex trigger
+Ability to set business rules on how application data can be modified for use in the system,ability set business rule application datum modify use system
+Ability to configure different page layouts for different record types,ability configure different page layout different record type
+"Ability to run Batch DRE Rules that are not executed immediately, instead they are executed as a batch when the DRE criteria is met",ability run batch dre rule execute immediately instead execute batch dre criterion meet
+Ability to configure and schedule Batch DRE Rules run (Monthly/Weekly) ,ability configure schedule batch dre rule run monthly weekly
+Ability to configure and run validation DRE Rules that display an error when Data is invalid on a Record,ability configure run validation dre rule display error datum invalid record
+Ability to configure and run Display Validation Rules ,ability configure run display validation rule
+Ability to validate Data Filtering Criteria from the Primary Object to any Object with which it has parent or child relationship ,ability validate datum filtering criterion primary object parent child relationship
+Ability to run Cross-Objects automated DRE Rules,ability run cross object automate dre rule
+Ability to use simple and complex Operators to compare criteria Data Filters,ability use simple complex operator compare criterion datum filter
+"Ability to use Global Tables as criteria Data Filters( example: Master List Table, Record Type, etc)",ability use global table criterion datum filter example master list table record type etc
+"Ability to use different kind of Formula Functions such Round, Add Days, Add, Case, Concatenate, IF ... etc",ability use different kind formula function round add day add case concatenate etc
+Ability to specify the Action to be executed (Add Letter | Add Alert | Add Alert from Template | Clone | Create| Delete | Send Email | Update.. etc),ability specify action execute add letter add alert add alert template clone create delete send email update etc
+Ability to run DRE with Debug Mode to allow troubleshooting  ,ability run dre debug mode allow troubleshooting
+Ability to extract Records from the application (CSV | Reports),ability extract records application csv report
+"Ability to provide multiple layers of Data Security (example: Record Visibility, Field Level Security,Encryption, Masking)",ability provide multiple layer data security example record visibility field level securityencryption masking
+Ability to restrict access to authorized users ,ability restrict access authorize user
+"Ability to provide multiple ways of controlling User Data Visibility based on Profiles, Roles, Sharing Rules, Record Ownership",ability provide multiple way control user datum visibility base profile role sharing rule record ownership
+Ability to run two-factor authentication login security,ability run two factor authentication login security
+Ability to control password expiration and password creation rules,ability control password expiration password creation rule
+Ability to send alerts based on business rules,ability send alert base business rule
+Ability to update permits in bulk (future),ability update permit bulk future
+Ability to split a parcel,ability split parcel
+Ability to combine parcels,ability combine parcel
+Abilty to flag an address,abilty flag address
+Ability to create an alert based on business rules that are visible across agency departments and related records,ability create alert base business rule visible across agency department relate record
+Ability to bulk print range of records based on specific parameters,ability bulk print range record base specific parameter
+Ability to put a lock on a property,ability put lock property
+Ability to automate an alert on a property based on criteria,ability automate alert property base criterion
+Abilty to export record data to excel.,abilty export record datum excel
+Ability to generate violation notice letters,ability generate violation notice letter
+Ability to print violation notice letters from the field,ability print violation notice letter field
+Ability to manage fee process based on business rules,ability manage fee process base business rule
+Ability to calculate fees based on business rules,ability calculate fee base business rule
+Ability to manage workflow for applications,ability manage workflow application
+Ability to assign workflow items of an application,ability assign workflow item application
+Ability to create and assign an address using a map,ability create assign address use map
+Ability to create and assign an address range using a map,ability create assign address range use map
+Ability to integrate to GIS solution for address validation.,ability integrate gis solution address validation
+Ability to review application details from a map,ability review application detail map
+Ability to integrate with GIS,ability integrate gis
+"Ability to record variances, deviations and modifications to a parcel",ability record variance deviation modification parcel
+Ability to select development area from a map,ability select development area map
+Ability to manage parcels,ability manage parcel
+Ability to manage addresses,ability manage address
+Ability to report against record requests,ability report record request
+Ability to install Sandbox environment,ability install sandbox environment
+Ability to integrate with custom mapping solutions,ability integrate custom mapping solution
+Ability to integrate with ESRI ArcGIS,ability integrate esri arcgis
+Ability to enable SSO,ability enable sso
+"Ability to provide reports on permits, inspections and applications",ability provide report permit inspection application
+Ability to search all records,ability search record
+Ability to report against all data,ability report datum
+Ability to integrate with Document management solution.,ability integrate document management solution
+Ability to create and save queries.,ability create save query
+Ability to integrate with Electronic plan review software,ability integrate electronic plan review software
+Ability to configure home pages by user or user profile,ability configure home page user profile
+Ability to access solution from mobile devices,ability access solution mobile device
+Ability to automate emails as part of application process,ability automate email part application process
+Ability to provide performance metrics for permits and other data objects,ability provide performance metric permit data object
+Ability to provide a system-wide audit log,ability provide system wide audit log
+Ability to add time-stamp and user name to all actions,ability add time stamp user name action
+Ability for desktop version of solution.,ability desktop version solution
+Ability to change status automatically based on business rules,ability change status automatically base business rule
+Ability to assign checklist for reviews,ability assign checklist review
+Ability to manage public access to documents,ability manage public access document
+Ability to restrict document deletion based on business rules,ability restrict document deletion base business rule
+ability to display all addresses within a specified radius of a given address,ability display address within specify radius give address
+ability to select all or individual addresses within a specified radius of a given address,ability select individual address within specify radius give address
+ability to create Notice Letters for addresses selected within a specified radius of a given address,ability create notice letter address select within specified radius give address
+ability for contractors to request reviews based on the business rules of the respective agency,ability contractor request review base business rule respective agency
+Ability to allow access to data across the organization,ability allow access datum across organization
+Ability to configure application pages to capture specific data elements,ability configure application page capture specific data element
+Ability to assign plan reviewers based on business rules,ability assign plan reviewer base business rule
+Ability to configure checklist of information required for plan review package,ability configure checklist information require plan review package
+Ability to verify business owner information,ability verify business owner information
+ability to update business license data.,ability update business license datum
+ability to validate business license data from third party solution,ability validate business license data third party solution
+Ability to search for businesses in back office,ability search business back office
+Ability to search for business licenses on portal,ability search business license portal
+Ability to configure portal based on business rules,ability configure portal base business rule
+Ability for users to subscribe to alerts,ability user subscribe alert
+Ability for users to subscribe to notifications,ability user subscribe notification
+Ability to display public information on portal.,ability display public information portal
+Ability to view training documentation on portal,ability view training documentation portal
+Ability for administrators to reset passwords,ability administrator reset password
+Ability to restrict data fields from public access,ability restrict data field public access
+Ability to track and manage liens against a property,ability track manage lien property
+Ability to print copies of application forms,ability print copy application form
+Ability to capture whether a change was manual or automatic in audit trail,ability capture whether change manual automatic audit trail
+Ability for solution to be ADA compliant,ability solution ada compliant
+Ability to provide custom look and feel across all modules,ability provide custom look feel across module
+Ability to integrate with MS Office products,ability integrate ms office product
+Ability to configure forms per business rules,ability configure form per business rule
+Ability to configure processes per business rules,ability configure process per business rule
+Ability to create user defined fields,ability create user define field
+Ability to link a contractor to multiple companies,ability link contractor multiple company
+Ability to remove the link between contractor and company,ability remove link contractor company
+Ability to limit record deletion based on business rules,ability limit record deletion base business rule
+Ability to merge records (Future),ability merge record future
+ability to maintain data history when merging record (Future),ability maintain datum history merge record future
+ability to access all property attributes using a map,ability access property attribute use map
+Ability to drill down to related records.,ability drill relate record
+Ability to save and print a system generated document,ability save print system generate document
+Ability to define data elements in a system generated document,ability define data element system generate document
+Ability to manage SLA's per business rules,ability manage sla per business rule
+Ability to define how data is stored and maintained,ability define datum store maintain
+Ability to separate street name and number in different data fields,ability separate street name number different data field
+Ability to manually override business rules,ability manually override business rule
+Ability to capture audit trail when business rules are overridden manually (Future),ability capture audit trail business rule overridden manually future
+Ability to capture time-stamp in audit trail,ability capture time stamp audit trail
+Ability for applicants to indicate preferred method of receiving notifications,ability applicant indicate preferred method receive notification
+Ability to capture electronic signature (Future),ability capture electronic signature future
+Ability to add comments to record,ability add comment record
+Ability to view all historical comments against a record,ability view historical comment record
+Ability to maintain contact details,ability maintain contact detail
+Ability to associate multiple contacts with the same company,ability associate multiple contact company
+Ability to associate roles to contacts within a company,ability associate role contact within company
+Ability to pull information from contact details into a related record automatically,ability pull information contact detail relate record automatically
+Ability to define data access privileges to contacts.,ability define data access privilege contact
+Ability to access solution from Mobile application,ability access solution mobile application
+Ability to attach documents and pictures to a record from a mobile device,ability attach document picture record mobile device
+Ability to print documents from a mobile device,ability print document mobile device
+Ability to create reports when offline (Future),ability create report offline future
+ability to capture electronic signature from mobile when offline (Future),ability capture electronic signature mobile offline future
+Ability to capture geocoordinates from field and attach to record (Future),ability capture geocoordinates field attach record future
+Ability to view GIS maps from mobile device,ability view gis maps mobile device
+Ability for mobile application to support all mobile OS,ability mobile application support mobile os
+Ability to brand mobile app to city's branding,ability brand mobile app citys brand
+Ability to integrate through 3rd party service bus,ability integrate 3rd party service bus
+Ability to email citizen,ability email citizen
+Ability to know the hardware requirements to run the system for an end user,ability know hardware requirement run system end user
+Ability to access product documentation for features and configuration,ability access product documentation feature configuration
+Ability to access tier 1 support and troubleshooting,ability access tier 1 support troubleshooting
+Ability to access tier 2 tech support,ability access tier 2 tech support
+Ability to print all any documents that can be printed,ability print document print
+Ability to manage users via standard Salesforce user managment,ability manage user via standard salesforce user managment
+Ability to Integrate with External System via APIs,ability integrate external system via apis
+Ability to provide optimal System Performance,ability provide optimal system performance
+"Ability to support concurrent users to work on records such as viewing, editing records",ability support concurrent user work record view editing record
+"Ability to look up the data model for different Clariti features (financials, permitting, etc) on a documentation portal",ability look datum model different clariti feature financial permit etc documentation portal
+Ability to preserve Data Integrity and correct order or execution,ability preserve datum integrity correct order execution
+"Ability to restrict access to Object, Fields, Pages by user profile",ability restrict access object field page user profile
+Ability to validate incorrect Data on the Records and prevent Record Data innacuracy,ability validate incorrect datum record prevent record data innacuracy
+"Ability to support industry standard web browsers such as Chrome, Mozilla, Safari",ability support industry standard web browser chrome mozilla safari
+Ability to apply a filter to a list view of records of an object,ability apply filter list view record object
+Provide a robust Service Oriented Architecture model,provide robust service orient architecture model
+Ability to clone a report from a pre-existing report,ability clone report pre exist report
+"Ability to schedule an Event related to application records with a Subject, Date, Time, and Location",ability schedule event related application record subject date time location
+Ability to create a graph of data on a report,ability create graph datum report
+Ability to create a summary of data on a report,ability create summary datum report
+Ability to drilldown to individual records on a report,ability drilldown individual record report
+Ability to import tabularized data from an external source and map to a Salesforce object,ability import tabularize data external source map salesforce object
+Ability to find system related information through Documentation | Help,ability find system related information documentation help
+"Ability to provide multiple environment for development, testing, uat and production",ability provide multiple environment development testing uat production
+"Ability to configure Events so that application records can be scheduled with a Subject, Date, Time, and Location",ability configure event application record schedule subject date time location
+Ability to create a folder structure to hold reports in structured repository,ability create folder structure hold report structure repository
+Ability to create a description for a report,ability create description report
+Ability to search for created reports,ability search create report
+Ability to create reports,ability create report
+"Ability to automate Event creation for application records with a Subject, Date, Time, and Location",ability automate event creation application record subject date time location
+Ability to view reports that have already been created,ability view report already create
+Ability to share a created report with another user or class of users,ability share create report another user class user
+"Documentation available for features, tool, data models, configuration  ",documentation available feature tool datum model configuration
+Ability to filter data on a report by a fields value,ability filter data report field value
+Ability to print reports that have been created in the system,ability print report create system
+Ability schedule report creation based on different criteria,ability schedule report creation base different criterion
+Ability to export reports in excel or csv format  ,ability export report excel csv format
+Ability to control user's log out time based on user's inactivity in the system,ability control user log time base user inactivity system
+Ability to see a reports last edited date,ability see report last edited date
+Ability to provide controls and mechanisms for ensuring secured coding best practices including security threats ,ability provide control mechanism ensure secure code good practice include security threat
+Duplicate Ability to provide controls and mechanisms for ensuring secured coding best practices including security threats,duplicate ability provide control mechanism ensure secure code good practice include security threat
+"Ability manage user session and isolate, so that a failure in one session has no impact on other user sessions.",ability manage user session isolate failure one session impact user session
+Ability to edit already pre-existing reports,ability edit already pre existing report
+Ability to provide different levels of access to reports,ability provide different level access report
+ability to merge records while maintaining associated history (i.e. transactions) including all associated notes and attachments,ability merge record maintain associate history ie transaction include associate note attachment
+Ability to utilize Einstein Analytics on the Salesforce platform to perform data analytics,ability utilize einstein analytics salesforce platform perform datum analytic
+Ability to delete records based on business rules and criteria,ability delete record base business rule criterion
+Ability to log and view DRE execution and exceptions,ability log view dre execution exception
+Ability to configure field history tracking on up to 20 fields on any object for audit trail purposes,ability configure field history track 20 field object audit trail purpose
+Ability to capture user data around changes made with field history tracking for audit trail purposes,ability capture user datum around change make field history track audit trail purpose
+Ability to search for Documents ,ability search document
+Ability to store and manage content Files  ,ability store manage content file
+Ability to search for content documents,ability search content document
+Duplicate Ability to store and manage content Files,duplicate ability store manage content file
+"Ability to assign tasks link to a Permit, License, Violation, Inspection, etc",ability assign task link permit license violation inspection etc
+"Ability to add notes related to a Citizen Account which include the Date/Time, Subject and full Description",ability add note related citizen account include date time subject full description
+Ability to query and report on notes related to a Citizen Account,ability query report note related citizen account
+Ability to assign records to Queues based on some criteria,ability assign record queue base criterion
+Ability to configure the System through a set up (Administration) functionality,ability configure system set administration functionality
+Ability to create unique identifiers (sequence numbers) that are dynamic depending on criteria on the record,ability create unique identifier sequence number dynamic depend criterion record
+Ability to add and update a Citizen Business account with address and contact details into system into system for tracking applicants or licensees,ability add update citizen business account address contact detail system tracking applicant licensee
+Ability to add and update a Citizen Person account with address and contact details into system for tracking applicants or licensees,ability add update citizen person account address contact detail system tracking applicant licensee
+Ability to copy record elements and paste,ability copy record element paste
+Ability to create Fields with defined single values and control the Order in which they are presented,ability create field define single value control order present
+Ability to create Fields with defined multiple selectable values and control the Order in which they are presented,ability create field define multiple selectable value control order present
+Ability to support formula Fields that are calculated based on predefined calculation,ability support formula field calculate base predefine calculation
+"The system can generate text with alternative language characters (e.g. Chinese, Arabic, Cyrillic, etc.) on system-generated outputs.",system generate text alternative language character eg chinese arabic cyrillic etc system generate output
+"The system must allow the person who initiated or a query, and a system administrator, to terminate or cancel the query while it is either processing or printing.",system must allow person initiate query system administrator terminate cancel query either processing printing
+"Ability to Provide Performance  reporting, and on demand scaling for resources such as storage, servers, etc. to meet performance and availability.",ability provide performance report demand scale resource storage server etc meet performance availability
+Ability to meet System compatibility requirements.,ability meet system compatibility requirement
+"Ability to support standard email protocols (e.g., IMAP, MAPI, POP3, SMTP, etc.).",ability support standard email protocol eg imap mapi pop3 smtp etc
+Ability to automatically test some features and functions to minimize staff time for testing.,ability automatically test feature function minimize staff time testing
+"Ability to automatically notify appropriate DOL staff if there are attempts to breach system authorized security level, based on DOL business rules.",ability automatically notify appropriate dol staff attempt breach system authorize security level base dol business rule
+Ability to include imaging capability or integrate with the existing DOL imaging system.,ability include image capability integrate existing dol imaging system
+Ability to provide an imaging system must read bar code and other defined data elements.,ability provide imaging system must read bar code define data element
+Ability to scan photos for metadata and store in the system,ability scan photo metadata store system
+Ability to produce forms that are compatible with Optical Character Recognition (OCR).,ability produce form compatible optical character recognition ocr
+Ability to report on the file count and size for electronic documents and photos in system,ability report file count size electronic document photo system
+Ability to allow pre-population of data entry fields to index the electronic document based on a bar code or other electronic recognition method.,ability allow pre population data entry field index electronic document base bar code electronic recognition method
+Ability to support on-premises trainings for administrators and users,ability support on premise training administrator user
+Ability to support non-proprietary client access to raw data store,ability support non proprietary client access raw data store
+Ability to update records stored in 3rd Party Imaging products with details captured in Clariti system,ability update record stored 3rd party imaging product detail capture clariti system
+"Ability to support user experience on current recent browsers (Chrome, Edge, Firefox, Safari. . .)",ability support user experience current recent browser chrome edge firefox safari
+Ability to support data migration from existing platform,ability support data migration exist platform
+Ability accommodate future interfaces as new systems are brought into the environment.,ability accommodate future interface new system bring environment
+Ability to support software license agreement that is Enterprise wide,ability support software license agreement enterprise wide
+Ability to notify administrators / users when software upgrades bug fixes and patches are available,ability notify administrator user software upgrade bug fixes patch available
+Ability to identify documents to be archived or purged from the system,ability identify document archive purged system
+"Ability to administrate users (e.g. add, edit, delete, activate and deactivate)",ability administrate user eg add edit delete activate deactivate
+Ability to link to external resources per business rules of the respective business unit.,ability link external resource per business rule respective business unit
+"Ability to assign users to more than one physical area (e.g. a zone, a traffic area zone (TAZ), an occupancy type, specialty, neighborhood, planning district, CPAC, etc.).",ability assign user one physical area eg zone traffic area zone taz occupancy type specialty neighborhood planning district cpac etc
+Ability to allow users to copy and paste information from various sources to include on the citation. For example: Cutting and pasting excerpts from the Statute or Municipal Code that is in violation.,ability allow user copy paste information various source include citation example cut pasting excerpt statute municipal code violation
+Ability to track and report analytics data about what screen users are stopping at,ability track report analytic data screen user stop
+Ability to upload supporting documents (submissions) during online application process,ability upload support document submission online application process
